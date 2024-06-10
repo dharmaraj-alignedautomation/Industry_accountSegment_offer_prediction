@@ -7,7 +7,6 @@ Created on Fri Jun  7 17:45:32 2024
 
 import pandas as pd
 import numpy as np
-import matplotlib.pyplot as plt
 from sklearn.preprocessing import PolynomialFeatures
 from sklearn.linear_model import LinearRegression
 from sklearn.metrics import mean_absolute_error,mean_absolute_percentage_error, r2_score,mean_squared_error
